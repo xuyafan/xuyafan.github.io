@@ -4,7 +4,7 @@
 ---
 
 
-Thank  [qiubaiying](https://github.com/qiubaiying/qiubaiying.github.io) for his guide。 
+Thank [qiubaiying](https://github.com/qiubaiying/qiubaiying.github.io) for his guide。 
 
 ### License
 
