@@ -57,10 +57,20 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-disqus_username: xuyafan
+# disqus_username: xuyafan
+
+
+# Gitalk
+gitalk:
+  enable: true    #是否开启Gitalk评论
+  clientID: 3b90e5989a0e9832b588   #生成的clientID
+  clientSecret: 841586858db2359fa82d261544337eb455f8ba22  #同上
+  repo: xuyafan.github.io    #仓库名称
+  owner: xuyafan    #github用户名
+  admin: xuyafan
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 # 统计
-
 # Analytics settings
 # Baidu Analytics
 # ba_track_id: b50bf2b12b5338a1845e33832976fd68
