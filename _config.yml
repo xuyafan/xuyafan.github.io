@@ -1,5 +1,5 @@
 # Site settings
-title: BY Blog
+title: Softfun Blog
 SEOTitle: Softfun的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: xyf18362929560@163.com
@@ -12,7 +12,7 @@ github_repo: "https://github.com/xuyafan/xuyafan.github.io.git" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Better late than never!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/image.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -85,7 +85,7 @@ ga_domain: auto
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 0             # 相同标签数量大于这个数，才会出现在首页
 
 
 
