@@ -1,10 +1,10 @@
 # Site settings
-title: Softfun Blog
-SEOTitle: Softfun Blog
+title: Xuyafan Blog
+SEOTitle: Xuyafan Blog
 header-img: img/post-bg-hacker.jpg
 email: xyf18362929560@163.com
 description: "Better late than never."
-keyword: "xuyafan Android"
+keyword: "Android"
 url: "http://xuyafan.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/xuyafan/xuyafan.github.io.git" # you code repository
@@ -18,11 +18,11 @@ sidebar-avatar: /img/icon.png     # use absolute URL, seeing it's used in both `
 
 # SNS settings
 RSS: false
-weibo_username:     softfun
+#weibo_username:     softfun
 #zhihu_username:     qiubaiying
 github_username:    xuyafan
 #facebook_username:  baiying.qiu.7
-jianshu_username:   adb9707bfadd
+#jianshu_username:   adb9707bfadd
 #twitter_username:   qiubaiying
 
 
